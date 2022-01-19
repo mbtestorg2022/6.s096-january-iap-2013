@@ -1,0 +1,48 @@
+leftnav:
+- identifier: 01ee04e1-38b0-9ea0-c906-e9d57f619319
+  name: Syllabus and Software
+  url: /pages/syllabus
+  weight: 10
+- identifier: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
+  name: Lectures and Assignments
+  url: /pages/lectures-and-assignments/
+  weight: 20
+- identifier: f0acd411-10d1-ccdc-6d70-3d6ea2bfac40
+  name: Compilation Pipeline
+  parent: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
+  url: /pages/lectures-and-assignments/compilation-pipeline
+  weight: 30
+- identifier: 055a6a4e-4abd-91c3-6e69-fb5bc0e07a03
+  name: Core C
+  parent: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
+  url: /pages/lectures-and-assignments/core-c-control-structures-variables-scope-and-uninitialized-memory
+  weight: 40
+- identifier: 66ba4420-12a6-1549-5e33-42c9cfdf9aa2
+  name: C Memory Management
+  parent: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
+  url: /pages/lectures-and-assignments/c-memory-management
+  weight: 50
+- identifier: b3ef0975-08f4-37ed-8fbe-d839cfaa1e5d
+  name: Data Structures, Debugging
+  parent: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
+  url: /pages/lectures-and-assignments/data-structures-debugging
+  weight: 60
+- identifier: f6afd55a-3350-f806-04e5-f89e1f90cc5f
+  name: C++ Introduction, Classes, and Templates
+  parent: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
+  url: /pages/lectures-and-assignments/c-introduction-classes-and-templates
+  weight: 70
+- identifier: f70e7442-f692-8d5e-4454-66e50eba0b4f
+  name: C++ Inheritance
+  parent: 1d0729a5-9d9f-5e99-126f-6cea8d53b518
+  url: /pages/lectures-and-assignments/c-inheritance
+  weight: 80
+- identifier: 43e815cb-25bc-972c-4ad2-bcd5545036c5
+  name: Final Project
+  url: /pages/final-project/
+  weight: 90
+- identifier: 95373ee7-c310-c36e-3ac2-a00d9b23d8bf
+  name: Starter Kit
+  parent: 43e815cb-25bc-972c-4ad2-bcd5545036c5
+  url: /pages/final-project/starter-kit
+  weight: 100
