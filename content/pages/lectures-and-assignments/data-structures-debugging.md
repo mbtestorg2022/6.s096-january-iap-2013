@@ -84,8 +84,7 @@ You can learn more about binary search trees and find pseudo-code on [the binary
 
 Your job is to implement a binary search tree, a data structure of connected nodes with a tree shape. Each node has a node identifier (a number), data (payload), and 2 children (left and right). The children are other nodes referenced with a pointer, with the constraint that the left node's ID is less than the parent node's ID, and the right node's ID is larger than the parent node ID. No two nodes will have the same identifier. A node can have less than two children; in that case, one or more of its child pointers can be `NULL`.
 
-![A binary search tree with four nodes. In this diagram, each node is represented 
-by boxes labeled ID, Payload, Left, and Right.](/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/lectures-and-assignments/data-structures-debugging/search_tree.jpg)
+{{< resource "28cf127c-dbcf-78a7-1f82-4241bee5be86" >}}
 
 Image by MIT OpenCourseWare.
 

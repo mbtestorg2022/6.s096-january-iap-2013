@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 95373ee7-c310-c36e-3ac2-a00d9b23d8bf
 resourcetype: Image
 title: Draw_Text.jpg
 uid: 62024122-c82c-d8dd-dade-4ceb1b4e1f83

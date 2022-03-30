@@ -5,6 +5,7 @@ description: Lecture presentation on the compilation pipeline, string substituti
   declarations, and linear processing.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-s096-introduction-to-c-and-c-january-iap-2013/fa1252363414ff23580c2b924da60e3e_MIT6_S096_IAP13_lec1.pdf
 file_type: application/pdf
+parent_uid: f0acd411-10d1-ccdc-6d70-3d6ea2bfac40
 resourcetype: Document
 title: 'Lecture 1: Compilation Pipeline'
 uid: fa125236-3414-ff23-580c-2b924da60e3e

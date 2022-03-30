@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Vertical red lines of different heights.
+parent_uid: 95373ee7-c310-c36e-3ac2-a00d9b23d8bf
 resourcetype: Image
 title: Line.jpg
 uid: 16c065ed-11ff-2203-60ba-6190d4a8bc4d
